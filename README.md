@@ -1,4 +1,4 @@
-# GifAppST 🎬✨
+# GifAppST 
 
 Mi primera aplicación desarrollada con **React**.  
 Permite **buscar y mostrar GIFs animados** utilizando la **API de Giphy**.
@@ -7,18 +7,17 @@ Permite **buscar y mostrar GIFs animados** utilizando la **API de Giphy**.
 
 ## Tecnologías usadas
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![Giphy API](https://img.shields.io/badge/Giphy-API-FF6F61)
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Giphy API](https://img.shields.io/badge/Giphy-API-FF6F61?style=for-the-badge)
 
 ---
 
 ## Demo en vivo
 
 🌐 [Visita la app](https://gifappst.netlify.app/)
-(./assets/gifapp-preview.jpg)
 
 ---
 
@@ -31,12 +30,10 @@ GifAppST es una app sencilla que permite:
 
 ---
 
-## Instalación (opcional)
-
-Si quieres correrla localmente:
+## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/GifAppST.git
+git clone https://github.com/dereksxt/GifAppST.git
 cd GifAppST
 npm install
 npm start
